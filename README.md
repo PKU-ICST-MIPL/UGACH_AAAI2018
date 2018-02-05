@@ -6,7 +6,7 @@ Jian Zhang, Yuxin Peng, and Mingkuan Yuan, "Unsupervised Generative Adversarial 
 # Usage
 For NUSWIDE dataset:
 
-1. Generate KNN graph hy the codes under KNN directory: python knn_nus_cross5.py
+1. Generate KNN graph by the codes under KNN directory: python knn_nus_cross5.py
 2. Pretrain the model by using the code under pretrain directory: python train_16.py
 3. Train the model by using the code under UGACH-nus: python train_16.py
 4. Generate hash codes for query and database samples: python test_16.py
