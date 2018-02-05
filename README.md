@@ -13,5 +13,7 @@ For NUSWIDE dataset:
 
 MIRFlickr dataset is similar to the NUSWIDE dataset.
 
-For more information, please refer to our [AAAI paper](https://arxiv.org/abs/1712.00358)
+For more information, please refer to our [AAAI paper](https://arxiv.org/abs/1712.00358).
+
+Welcome to our [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information about our papers, source codes, and datasets.
 
