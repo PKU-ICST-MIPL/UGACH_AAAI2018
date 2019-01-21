@@ -1,7 +1,7 @@
 # Introduction
 This is the source code of our AAAI 2018 paper "Unsupervised Generative Adversarial Cross-modal Hashing", Please cite the following paper if you use our code.
 
-Jian Zhang, Yuxin Peng, and Mingkuan Yuan, "Unsupervised Generative Adversarial Cross-modal Hashing", 32th AAAI Conference on Artificial Intelligence (AAAI), New Orleans, Louisiana, USA, Feb. 2–7, 2018. [[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=461)
+Jian Zhang, Yuxin Peng, and Mingkuan Yuan, "Unsupervised Generative Adversarial Cross-modal Hashing", 32th AAAI Conference on Artificial Intelligence (AAAI), New Orleans, Louisiana, USA, Feb. 2–7, 2018. [[PDF]](http://59.108.48.34/mipl/tiki-download_file.php?fileId=461)
 
 # Usage
 For NUSWIDE dataset:
@@ -13,6 +13,6 @@ For NUSWIDE dataset:
 
 MIRFlickr dataset is similar to the NUSWIDE dataset.
 
-For more information, please refer to our [AAAI paper](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=1007).
+For more information, please refer to our [AAAI paper](http://59.108.48.34/mipl/tiki-download_file.php?fileId=461).
 
 Welcome to our [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information about our papers, source codes, and datasets.
