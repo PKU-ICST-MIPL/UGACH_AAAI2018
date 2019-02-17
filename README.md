@@ -10,6 +10,8 @@ For NUSWIDE dataset:
 2. Pretrain the model by using the code under pretrain directory: python train_16.py
 3. Train the model by using the code under UGACH-nus: python train_16.py
 4. Generate hash codes for query and database samples: python test_16.py
+5. The samples of the input files have been under samples directory. Each line of the files indicates a feature vector of the training data, which have been detailed in the paper. The test and the validation datasets have the same format as the training dataset. 
+
 
 MIRFlickr dataset is similar to the NUSWIDE dataset.
 
