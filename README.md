@@ -12,6 +12,7 @@ For NUSWIDE dataset:
 4. Generate hash codes for query and database samples: python test_16.py
 
 MIRFlickr dataset is similar to the NUSWIDE dataset.
+
 The samples of the MIRFlickr input files have been under samples directory. Each line of the files indicates a feature vector of the training data, which have been detailed in the paper. The test and the validation datasets have the same format as the training dataset. 
 
 For more information, please refer to our [AAAI paper](http://59.108.48.34/mipl/tiki-download_file.php?fileId=461).
