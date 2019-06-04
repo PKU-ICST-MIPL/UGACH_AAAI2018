@@ -15,7 +15,7 @@ MIRFlickr dataset is similar to the NUSWIDE dataset.
 
 The samples of the MIRFlickr input files have been under samples directory. Each line of the files indicates a feature vector of the training data, which have been detailed in the paper. The test and the validation datasets have the same format as the training dataset. 
 
-We use vgg19 model and adopt the output of fc7 layers as the images features, the text feature of NUS datasets come from the Official dataset, the text feature of MIRFlickr come from https://github.com/jiangqy/DCMH-CVPR2017
+We use vgg19 model and adopt the output of fc7 layers as the images features, the text feature of NUS datasets come from the official dataset, the text feature of MIRFlickr come from https://github.com/jiangqy/DCMH-CVPR2017
 
 For more information, please refer to our [AAAI paper](http://59.108.48.34/mipl/tiki-download_file.php?fileId=461).
 
