@@ -17,7 +17,7 @@ The samples of the MIRFlickr input files have been under samples directory. Each
 
 We use vgg19 model and adopt the output of fc7 layers as the images features, the text feature of NUS datasets come from the official dataset, the text feature of MIRFlickr come from https://github.com/jiangqy/DCMH-CVPR2017
 
-We provide the training features in NUS-WIDE, the feature extreaction tools (from https://github.com/cvjena/cnn-models) and the final model of 16 bit hash in nus-wide (dis_best__nn_16.model).
+We provide the training features in NUS-WIDE, the feature extreaction tools (from https://github.com/cvjena/cnn-models) and the final model of 16 bit hash in nus-wide (dis_best__nn_16.model). You can download and use the feature extract tools to extract the feature for test set by yourself. We resized the images to 255x225 and crop into 224x224(crop is achieved by Caffe). the query set is randomly selected from the test set.
 
 download:https://pan.baidu.com/s/17vV-LThqKR2cStOHoa26jg
 
